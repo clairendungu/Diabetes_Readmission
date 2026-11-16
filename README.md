@@ -211,10 +211,7 @@ Push this repository to GitHub, create a new **Web Service** on [Render](https:/
 
 ### Deployed service
 
-<!-- TODO: fill in after you deploy. The course asks for a URL OR a video/screenshot of testing the deployed service. -->
-
-- URL: TODO
-- Screenshot / video of a request to the deployed service: TODO (add the file to the repo, for example `docs/cloud-test.png`, and link it here)
+- URL: https://organic-broccoli-jj5xq7vrqq4r2vxj-9697.app.github.dev/
 
 ## Limitations
 
