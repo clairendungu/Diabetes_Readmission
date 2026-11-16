@@ -1,0 +1,10 @@
+# Minimal dependencies for the prediction service (used by the Dockerfile).
+# These versions match the environment where model.bin was trained (Google Colab),
+# because a pickled model must be loaded with the same library versions that created it.
+# Keep identical to the pins in requirements.txt.
+pandas==2.2.3
+numpy==2.4.6
+scikit-learn==1.6.1
+xgboost==3.4.1
+flask
+gunicorn
