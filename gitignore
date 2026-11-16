@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# The raw dataset is downloaded automatically (see README); model.bin is committed on purpose
+# because the Docker image copies it.
+data/*.csv
+data/*.zip

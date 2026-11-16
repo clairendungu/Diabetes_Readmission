@@ -1,0 +1,16 @@
+{
+  "model": "xgboost",
+  "best_params": {
+    "model__colsample_bytree": 0.7201,
+    "model__learning_rate": 0.0144,
+    "model__max_depth": 6,
+    "model__min_child_weight": 8,
+    "model__n_estimators": 580,
+    "model__reg_lambda": 0.2506,
+    "model__subsample": 0.7564
+  },
+  "cv_pr_auc": 0.18386313123301476,
+  "test_roc_auc": 0.6557253167678159,
+  "test_pr_auc": 0.19112682427755479,
+  "flag_threshold_top20pct": 0.5477218627929688
+}

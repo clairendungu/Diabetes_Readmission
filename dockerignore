@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.git/
+data/
+notebook.ipynb
+train.py
+best_params.json
+README.md
